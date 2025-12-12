@@ -1,0 +1,16 @@
+html, body {
+  padding: 0;
+  margin: 0;
+}
+* { box-sizing: border-box; }
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@1&family=Inter:wght@500;600&family=Manrope:wght@500&family=Caveat+Brush&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
