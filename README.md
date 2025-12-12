@@ -1,4 +1,4 @@
-# 💍 WeddingCo – Frontend Assignment Submission
+# WeddingCo – Frontend Assignment Submission
 
 Welcome to **WeddingCo** 👋  
 This repository contains my submission for the **Frontend Developer Intern Assignment** at **WeddingCo**.  
@@ -6,14 +6,14 @@ The goal of this assignment was to accurately implement the provided Figma desig
 
 ---
 
-## 📋 Assignment Overview
+## Assignment Overview
 
-- 🎯 **Objective:** Build a desktop-only frontend interface based on the given Figma design
-- 🎨 **Focus Areas:** UI accuracy, clean code, responsiveness (desktop), accessibility, and performance
-- 🚀 **Deployment:** Hosted on Vercel for easy access and review
+- **Objective:** Build a desktop-only frontend interface based on the given Figma design
+- **Focus Areas:** UI accuracy, clean code, responsiveness (desktop), accessibility, and performance
+- **Deployment:** Hosted on Vercel for easy access and review
 
 ---
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 Follow the steps below to set up and run the project locally.
 
