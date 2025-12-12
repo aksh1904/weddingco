@@ -96,13 +96,13 @@ Simply connect the GitHub repository to Vercel and deploy with the default Next.
 
 | Task                           | Time Spent       |
 | ------------------------------ | ---------------- |
-| Project setup & configuration  | ~1 hour          |
+| Project setup & configuration  | ~0.5 hour          |
 | UI layout & styling            | ~1 hours       |
 | Component development          | ~1 hours       |
 | Accessibility & responsiveness | ~1 hours         |
 | Testing & refinements          | ~1 hours         |
-| Deployment & documentation     | ~1 hour          |
-| **Total**                      | **~6 hours** |
+| Deployment & documentation     | ~0.5 hour          |
+| **Total**                      | **~5 hours** |
 
 ## Notes
 
