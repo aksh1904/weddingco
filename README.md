@@ -114,4 +114,4 @@ Simply connect the GitHub repository to Vercel and deploy with the default Next.
 
 Thank you for reviewing my submission!
 I thoroughly enjoyed working on this assignment and would love the opportunity to discuss the implementation and design choices further.
-— Aksh
+— Akshat
