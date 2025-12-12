@@ -1,6 +1,6 @@
 # WeddingCo – Frontend Assignment Submission
 
-Welcome to **WeddingCo** 👋  
+Welcome to **WeddingCo** 
 This repository contains my submission for the **Frontend Developer Intern Assignment** at **WeddingCo**.  
 The goal of this assignment was to accurately implement the provided Figma design into a **pixel-perfect, interactive desktop web interface**, while following modern frontend best practices.
 
@@ -75,21 +75,14 @@ Simply connect the GitHub repository to Vercel and deploy with the default Next.
 
 ## Key Features Implemented
 
-✨ The following features were implemented as part of the assignment:
-
-🎯 Pixel-perfect UI matching the provided Figma design
-
-🖥️ Desktop-first layout as per assignment requirements
-
-🎨 Tailwind CSS styling for clean and maintainable UI
-
-🧭 Smooth hover states and transitions
-
-♿ Accessible components following WCAG 2.1 guidelines
-
-⚡ Optimized performance with modern React practices
-
-📦 Clean folder structure and reusable components
+-> The following features were implemented as part of the assignment:
+-> Pixel-perfect UI matching the provided Figma design
+-> Desktop-first layout as per assignment requirements
+-> Tailwind CSS styling for clean and maintainable UI
+-> Smooth hover states and transitions
+-> Accessible components following WCAG 2.1 guidelines
+-> Optimized performance with modern React practices
+-> Clean folder structure and reusable components
 
 ## Assumptions Made
 
@@ -104,12 +97,12 @@ Simply connect the GitHub repository to Vercel and deploy with the default Next.
 | Task                           | Time Spent       |
 | ------------------------------ | ---------------- |
 | Project setup & configuration  | ~1 hour          |
-| UI layout & styling            | ~6–8 hours       |
-| Component development          | ~5–7 hours       |
-| Accessibility & responsiveness | ~2 hours         |
-| Testing & refinements          | ~2 hours         |
+| UI layout & styling            | ~1 hours       |
+| Component development          | ~1 hours       |
+| Accessibility & responsiveness | ~1 hours         |
+| Testing & refinements          | ~1 hours         |
 | Deployment & documentation     | ~1 hour          |
-| **Total**                      | **~17–21 hours** |
+| **Total**                      | **~6 hours** |
 
 ## Notes
 
